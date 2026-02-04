@@ -1,0 +1,17 @@
+{
+  "name": "power_lines",
+  "description": "Theme showing power transmission lines instead of roads",
+  "bg": "#ffffff",
+  "text": "#000000",
+  "water": "#e0ebf5",
+  "parks": "#e8f3e8",
+  "gradient_color": "#FFFFFF",
+  "power_line": "#ff0000",
+  "power_line_width": 0.8,
+  "road_motorway": "#ffffff",
+  "road_primary": "#ffffff",
+  "road_secondary": "#ffffff",
+  "road_tertiary": "#ffffff",
+  "road_residential": "#ffffff",
+  "road_default": "#ffffff"
+}
